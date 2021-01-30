@@ -2,6 +2,39 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="Linux VM (3bcc6958-90f7-41cd-80a5-7b4c68bf2018)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/DataStructures" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="RaspUbuntu">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="RaspUbuntu (22f0a4c9-efaa-4c54-aedf-9f9050acd1ad)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.S78aPFUph3" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-visual-studio" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-wsl" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-wsl" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-raspubuntu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-linuxvm" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-visual-studio" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-raspubuntu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-linuxvm" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="WSL (589a3780-b029-4b63-a0fc-ef11baf6c8b5)">
         <serverdata>
           <mappings>
